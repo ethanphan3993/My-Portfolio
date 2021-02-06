@@ -2,4 +2,4 @@
 
 Here is some info about me
 
-[back to the home page] (index.md)
+[back to the home page](index.md)
