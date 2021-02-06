@@ -30,6 +30,17 @@ url: "https://ethanphan3993.github.io" # the base hostname & protocol for your s
 github_username:  ethanphan3993
 linkedin_username: ethanphan3993
 
+# adding author
+author: Ethan Phan
+
+# profile photo
+title-photo: /images/profile_photo.jpg
+
+
+# add copyright
+# copyright: "Ethan Phan"
+
+
 # Build settings
 # Remove minima theme and change to regular theme
 # theme: minima
